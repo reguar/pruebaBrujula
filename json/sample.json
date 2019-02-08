@@ -1,0 +1,18 @@
+{
+    "datosPrueba": [{
+        "value": "0",
+        "texto": "Texto0"
+    }, {
+        "value": "1",
+        "texto": "Texto1"
+    }, {
+        "value": "2",
+        "texto": "Texto2"
+    }, {
+        "value": "3",
+        "texto": "Texto3"
+    }, {
+        "value": "4",
+        "texto": "Texto4"
+    }]
+}
